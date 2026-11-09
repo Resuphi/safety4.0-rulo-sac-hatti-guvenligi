@@ -1,7 +1,7 @@
 # Safety 4.0: Fonksiyonel Makine Emniyeti ve OT Siber Güvenliği Laboratuvar Çalışmaları
 
 ## 1. Projenin Amacı
-Bu proje, endüstriyel otomasyon sistemlerinde **Fonksiyonel Makine Emniyeti (Functional Safety - ISO 13849 / IEC 62061)** ile **Operasyonel Teknoloji Siber Güvenliği (OT Cybersecurity - IEC 62443)** disiplinlerinin kesişimini ("Safety 4.0") incelemek amacıyla hazırlanmış 5 haftalık laboratuvar çalışmalarını içerir. 
+Bu proje, endüstriyel otomasyon sistemlerinde **Fonksiyonel Makine Emniyeti (Functional Safety - ISO 13849 / IEC 62061)** ile **Operasyonel Teknoloji Siber Güvenliği (OT Cybersecurity - IEC 62443)** disiplinlerinin kesişimini ("Safety 4.0") incelemek amacıyla hazırlanmış 7 haftalık laboratuvar çalışmalarını içerir. 
 
 Modern endüstriyel tesislerde makinelerin uzaktan bakım, kestirimci bakım telemetrisi ve üretim takibi amacıyla dış ağlara bağlanması, geleneksel olarak "izole" kabul edilen emniyet kritik kontrol sistemlerini siber tehditlere açık hale getirmiştir. Bu çalışmada, ağır sanayi tipi bir metal işleme hattı üzerinde siber saldırıların veya dijital hataların nasıl fiziksel yaralanmalara yol açabileceği analiz edilmiş ve hem ağ mimarisi hem de fonksiyonel emniyet düzeyinde alınması gereken mühendislik önlemleri adım adım modellenmiştir.
 
