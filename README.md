@@ -63,7 +63,7 @@ Modern endüstriyel tesislerde makinelerin uzaktan bakım, kestirimci bakım tel
     ├── hafta-03-threat-risk-matrix.md
     ├── hafta-04-secure-remote-access.md
     ├── hafta-05-sbom-cve-patch.md
-    ├── hafta-06-cra-incident-simulation.md
-    ├── hafta-07-ai-safety-challenge.md
-    └── swot-analizi.md
+    ├── hafta-06-cra-incident-simulation.pdf
+    ├── hafta-07-ai-safety-challenge.pdf
+    └── swot-analizi.pdf
 ```
